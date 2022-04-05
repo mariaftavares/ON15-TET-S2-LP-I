@@ -1,0 +1,15 @@
+Etapa 6 
+
+1-Dar incio ao jogo
+2- Repetir 3 vezes o mesmo codigo:
+	Andar 
+	construir bloco
+3- virar para a direita 
+4- Repetir 3 vezes o mesmo codigo:
+	Andar 
+	construir bloco
+5- virar para a direita 
+6- Repetir 3 vezes o mesmo codigo:
+	Andar 
+	construir bloco
+
